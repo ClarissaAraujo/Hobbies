@@ -21,10 +21,19 @@ header .overlay{
 	
 }
 
+
 h1 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 80px;
 	margin-bottom: 30px;
+}
+
+.centro{
+    font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 30px;
 }
 
 h3, p {
