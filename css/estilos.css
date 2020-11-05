@@ -22,7 +22,7 @@ header .overlay{
 }
 
 h1 {
-	font-family: 'Petit Formal Script', cursive;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 80px;
 	margin-bottom: 30px;
 }
@@ -32,16 +32,3 @@ h3, p {
 	margin-bottom: 30px;
 }
 
-button {
-	border: none;
-	outline: none;
-	padding: 10px 20px;
-	border-radius: 50px;
-	color: #333;
-	background: #fff;
-	margin-bottom: 50px;
-	box-shadow: 0 3px 20px 0 #0000003b;
-}
-button:hover{
-	cursor: pointer;
-}
