@@ -56,7 +56,7 @@ h3, p {
 
 #site-footer {
 	padding: 25px 0;
-	font-size: 85%;
+	font-size: 80%;
 	background-color: #2A2A2A;
 	position: fixed;
 	z-index: -1;
@@ -64,9 +64,6 @@ h3, p {
 	right: 0;
 	bottom: 0;
 }
-
-/* NOT NEEDED, THIS IS JUST FOR THE PEN */
-@import url(//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css);
 
 html, body {
 	padding: 0;
@@ -81,8 +78,6 @@ html, body {
 
 #site-footer {
 	min-height: 20vw;
-	/* DID THIS SO YOU CAN SEE IT AUTOMATICALLY SCALE - SIMULATION RESPONSIVENESS */
-	/* RESIZE THE WINDOW AND THEN SCROLL VERITCALLY AGAIN */
 	background-size: cover;
 	background-position: center;
 	background-image: url('https://w.wallhaven.cc/full/ey/wallhaven-eymzjk.jpg');
