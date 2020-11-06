@@ -77,7 +77,6 @@ html, body {
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-image: url('http://dummyimage.com/3000x3000/D1D1D1/2A2A2A.png?text=Scroll+Down');
 }
 
 #site-footer {
@@ -86,6 +85,6 @@ html, body {
 	/* RESIZE THE WINDOW AND THEN SCROLL VERITCALLY AGAIN */
 	background-size: cover;
 	background-position: center;
-	background-image: url('http://dummyimage.com/1500x1500/2A2A2A/FFF.png?text=Footer+Area+(Resize+Me)');
+	background-image: url('https://w.wallhaven.cc/full/ey/wallhaven-eymzjk.jpg');
 }
 
